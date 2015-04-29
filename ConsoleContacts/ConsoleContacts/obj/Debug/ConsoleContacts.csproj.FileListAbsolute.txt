@@ -1,0 +1,3 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\ConsoleContacts\ConsoleContacts\bin\Debug\ConsoleContacts.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\ConsoleContacts\ConsoleContacts\obj\Debug\ConsoleContacts.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\ConsoleContacts\ConsoleContacts\obj\Debug\ConsoleContacts.pdb
